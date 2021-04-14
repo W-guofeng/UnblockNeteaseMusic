@@ -18,7 +18,7 @@ proxy-providers:
   NeteaseMusic:
     type: http
     path: ./Proxy/NeteaseMusic.yaml
-    url: https://github.com/hsichien/UnblockNeteaseMusic/blob/master/Clash/Proxy/NeteaseMusic.yaml
+    url: https://raw.githubusercontent.com/hsichien/UnblockNeteaseMusic/master/Clash/Proxy/NeteaseMusic.yaml
     interval: 3600
     health-check:
       enable: true
@@ -38,7 +38,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./RuleSet/NeteaseMusic.yaml
-    url: https://github.com/hsichien/UnblockNeteaseMusic/blob/master/Clash/RuleSet/NeteaseMusic.yaml
+    url: https://raw.githubusercontent.com/hsichien/UnblockNeteaseMusic/master/Clash/RuleSet/NeteaseMusic.yaml
     interval: 86400
 
 rules:
