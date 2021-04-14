@@ -21,3 +21,19 @@ proxies:
     type: http
     server: 106.52.127.72
     port: 19951
+  - name: 🎶 解锁⑥
+    type: http
+    server: zz.loadinghtml.ltd
+    port: 30006
+  - name: 🎶 解锁⑦
+    type: http
+    server: zz.loadinghtml.ltd
+    port: 30007
+  - name: 🎶 解锁⑧
+    type: http
+    server: m.nxnow.xyz
+    port: 8910
+  - name: 🎶 解锁⑨
+    type: http
+    server: m.nxnow.xyz
+    port: 8920
