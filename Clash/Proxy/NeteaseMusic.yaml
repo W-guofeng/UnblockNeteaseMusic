@@ -1,39 +1,17 @@
 proxies:
-  - name: 🎶 解锁①
-    type: ss
-    server: music.desperadoj.com
-    port: 30001
-    cipher: aes-128-gcm
-    password: desperadoj.com_free_proxy_d39m
-  - name: 🎶 解锁②
+  - name: 🎶 解锁I
     type: http
-    server: block4music.poetyin.me
-    port: 39000
-  - name: 🎶 解锁③
+    server: 155.248.169.205
+    port: 70
+  - name: 🎶 解锁II
     type: http
-    server: music.lolico.me
-    port: 39000
-  - name: 🎶 解锁④
+    server: music.swcc.xyz
+    port: 9080
+  - name: 🎶 解锁III
     type: http
-    server: music.griouges.cn
-    port: 39000
-  - name: 🎶 解锁⑤
+    server: pc.tencentcdn.net
+    port: 30500
+  - name: 🎶 解锁IV
     type: http
-    server: 106.52.127.72
-    port: 19951
-  - name: 🎶 解锁⑥
-    type: http
-    server: zz.loadinghtml.ltd
-    port: 30006
-  - name: 🎶 解锁⑦
-    type: http
-    server: zz.loadinghtml.ltd
-    port: 30007
-  - name: 🎶 解锁⑧
-    type: http
-    server: m.nxnow.xyz
-    port: 8910
-  - name: 🎶 解锁⑨
-    type: http
-    server: m.nxnow.xyz
-    port: 8920
+    server: os.tencentcdn.net
+    port: 25000
